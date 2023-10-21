@@ -1,6 +1,8 @@
 # ValSplit
 This bash script allows you to check a set of MIPS instructions for correct syntax.
 
+CS1420 - Computer Systems Organisation - 2019
+
 # Usage
 The script takes 3 arguments:
 input.txt file which will contain the MIPS instructions you want to check.
