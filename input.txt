@@ -1,0 +1,11 @@
+add $s0 $s1 $s2
+
+add $s0 $s1 $z2
+sub $s2 $t0 $t3
+
+lw $t1 8($t2)
+
+addi $t3 $s0 -9
+
+lw $t11 70000($s0)
+sw $s3 4($t0)
